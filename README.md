@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m Paulo Pereira  
 🎯 **Senior Android Engineer | Passionate About Scalable, Modern Mobile Solutions**
 
-Welcome to my GitHub! I’m Paulo, a Senior Android Engineer with over **6 years of experience** building apps that are not only functional but also scalable, testable, and fun to use. I’m passionate about modern Android development and love exploring new tools and techniques to create amazing user experiences.  
+Welcome to my GitHub! I’m Paulo, a Senior Android Engineer with over **7 years of experience** building apps that are not only functional but also scalable, testable, and fun to use. I’m passionate about modern Android development and love exploring new tools and techniques to create amazing user experiences.  
 
 ## 💼 What I Do  
 - I specialize in **Kotlin** and **Jetpack Compose**, and I’m a big fan of modern architecture patterns like **MVVM** and **Clean Architecture**.  
