@@ -4,7 +4,7 @@
 Welcome to my GitHub! I’m Paulo, a Senior Android Engineer with over **7 years of experience** building apps that are not only functional but also scalable, testable, and fun to use. I’m passionate about modern Android development and love exploring new tools and techniques to create amazing user experiences.  
 
 ## 💼 What I Do  
-- I specialize in **Kotlin** and **Jetpack Compose**, and I’m a big fan of modern architecture patterns like **MVVM** and **Clean Architecture**.  
+- I specialize in **Android**, **Kotlin** and **Jetpack Compose**, and I’m a big fan of modern architecture patterns like **MVVM** and **Clean Architecture**.  
 - Writing clean, maintainable, and testable code is my thing! Whether it’s following **SOLID principles** or ensuring quality with **JUnit**, **MockK**, and **Espresso**, I’m all about making code that lasts.  
 - I thrive in agile environments, collaborating with cross-functional teams to deliver great apps and mentor others along the way.  
 
